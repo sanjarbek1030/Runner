@@ -1,2 +1,2 @@
 # Runner
-C++, SFML, 2D game
+C++, SFML Library, 2D game
